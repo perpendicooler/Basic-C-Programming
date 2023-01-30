@@ -1,0 +1,13 @@
+Math.h header file(<math.h>) of C programming language contains constants and functions to perform mathematical operations. You can use functions of math.h in your C programs to calculating absolute value of a number, calculating logarithms and using trigonometric functions to calculate sine, cosine of an angle.
+
+Math.h functions
+abs
+ceil
+cos
+floor
+log
+log10
+pow
+pow10
+sin
+sqrt

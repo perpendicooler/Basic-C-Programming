@@ -1,0 +1,14 @@
+conio.h
+conio.h header used in C programming contains functions for console input/output. Some of the most commonly used functions of conio.h are clrscr, getch, getche, kbhit etc. Functions of conio.h can be used to clear screen, change color of text and background, move text, check whether a key is pressed or not and many more. conio.h file is provided by Borland Turbo C compiler and GCC compiler doesn't support it. Beginner C/C++ programmers and some books use this file but it isn't recommended to use it in your software/application. To write portable C language programs do not use this file. There are also many other header files similar to this one.
+
+Conio.h functions
+clrscr
+delline
+getch
+getche
+gotoxy
+kbhit
+wherex
+wherey
+textcolor
+textbackground
