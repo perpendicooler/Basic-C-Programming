@@ -1,1 +1,2 @@
 ﻿# Basic-C-Programming
+This Git repository contains code written in the C programming language. The repository showcases various implementations of C programming concepts and algorithms. The code is well-organized, well-commented, and easy to follow, making it a valuable resource for those who are new to C or looking to improve their understanding of the language. Whether you're a beginner or an experienced programmer, you're sure to find something useful in this repository.
